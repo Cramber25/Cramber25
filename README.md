@@ -1,6 +1,6 @@
 ## Connect with me:
 
-[![Cramber#0001 ( 342564015974907914 )](https://discord.c99.nl/widget/theme-4/342564015974907914.png)](https://discord.com/users/342564015974907914)
+[![Cramber#0001 ( 342564015974907914 )](https://lanyard.cnrad.dev/api/342564015974907914)](https://discord.com/users/342564015974907914)
 
 ### Languages and Tools:
 
